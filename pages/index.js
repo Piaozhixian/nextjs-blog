@@ -16,6 +16,7 @@ export default function Home() {
             <a>this page!</a>
           </Link>
         </h1>
+        <img src="/images/profile.jpeg" alt="Piao Zhixian" />
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
